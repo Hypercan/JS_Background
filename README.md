@@ -4,4 +4,4 @@
 
 ![Image](/img/Ekran%20Fotosu.png)
 
-[Patika.com](www.patika.dev)
+[www.patika.dev](https://www.patika.dev/tr)
